@@ -91,6 +91,6 @@ This returns an array containing all of the valid error codes returned by GlobeL
 Refer to [GlobeLabs SMS Error Codes](https://www.globelabs.com.ph/api/Pages/Welcome.aspx?WId=11) for more info.
 
 
-Weird Stuff
+License
 -------
 This thing is licensed under: [Attribution 3.0 Unported (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
